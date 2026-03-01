@@ -1,5 +1,5 @@
 # 💫 About Me:
- 💻 Beginner "Full Stack Web Developer" learning how modern web applications work.<br> 🚀 Building projects to improve real-world development skills.<br> 🧠 Interested in problem solving and writing clean code.<br> 🛠️ Exploring modern web technologies and development tools.<br>🎯 Working toward becoming a skilled Software Developer.<br>
+ 💻 Beginner "Full Stack Web Developer" learning how modern web applications work.<br> 🚀 Building projects to improve real-world development skills.<br> 🧠 Interested in problem solving.<br> 🛠️ Exploring modern web technologies and development tools.<br>🎯 Working toward becoming a skilled Software Developer.<br>
 
 
 ## 🌐 Socials:
