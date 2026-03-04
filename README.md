@@ -62,7 +62,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=RaviTeja1864&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="420" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaviTeja1864&theme=tokyonight&hide_border=true" width="420" alt="Streak Stats" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app?user=RaviTeja1864&theme=tokyonight&hide_border=true" width="420" alt="Streak Stats" />
       </td>
     </tr>
   </table>
@@ -71,7 +71,6 @@
   
   <img src="https://github-profile-trophy.vercel.app/?username=RaviTeja1864&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="Trophies" />
 </div>
-
 ---
 
 ### ✨ Featured Projects
