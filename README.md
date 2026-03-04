@@ -1,96 +1,89 @@
-<pre style="font-family: 'Courier New', monospace; background: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 8px; overflow: auto; font-size: 15px; line-height: 1.5;">
-<span style="color:#58a6ff">ravi</span>@<span style="color:#58a6ff">teja</span>:<span style="color:#79c0ff">~</span>$ <span style="color:#ff7b72">whoami</span>
-ravi teja — full-stack developer wannabe
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ravi+Teja!;Full+Stack+Web+Developer+%F0%9F%9A%80;Building+modern+web+apps+with+passion;Always+learning+%26+problem-solving" alt="Typing SVG" />
+</div>
 
-<span style="color:#58a6ff">ravi</span>@<span style="color:#58a6ff">teja</span>:<span style="color:#79c0ff">~</span>$ <span style="color:#ff7b72">ls -la</span>
-total 1337
-drwxr-xr-x  .          <a href="#about-me">about-me/</a>
-drwxr-xr-x  .          <a href="#projects">projects/</a>
-drwxr-xr-x  .          <a href="#contact">contact/</a>
--rw-r--r--  .          skills.txt     <a href="#skills">view</a>
--rw-r--r--  .          README.md      (you are here)
+<br>
 
-Click folders above to "cd" into them ↓
-</pre>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Ravi+Teja&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38" alt="header" />
+</div>
 
-<h2 id="about-me">ravi@teja:~ $ cd about-me && cat whoami.txt</h2>
+---
 
-<pre>
-Hey, I'm Ravi Teja! 👋
+### 👨‍💻 About Me
 
-• From Karnataka, India (Bengaluru vibes)
-• Building web apps with passion
-• Focused on clean, fast, user-friendly code
-• Currently leveling up: React • Next.js • Node.js • Tailwind • Databases
-• Goal: Ship real stuff, solve problems, keep growing
+- 💻 **Aspiring Full-Stack Web Developer** passionate about clean, efficient, user-friendly apps  
+- 🚀 Building real-world projects to level up skills  
+- 🧠 Enjoy solving tough problems and exploring new tech  
+- 🌱 Diving deeper into **React**, **Node.js**, **Next.js**, databases & cloud  
+- 🎯 Goal: Deliver real impact as a reliable **Software Engineer**
 
-"Write code that others (including future you) will enjoy reading."
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
-Open to collabs, advice, or just saying hi!
-</pre>
+---
 
-<p style="font-size: 1.3em; margin: 20px 0;">
-  <strong><a href="#root" style="color: #79c0ff; text-decoration: none;">← cd ..   (back to home)</a></strong>
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravi-teja-18678a228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/RAVITEJA_1864" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME_HERE/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/raviteja1864" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
 </p>
 
-<hr style="border-color: #30363d;">
+<!-- Replace YOUR_INSTAGRAM_USERNAME_HERE with your actual Instagram handle -->
 
-<h2 id="projects">ravi@teja:~ $ cd projects && ls</h2>
+---
 
-<pre>
-status.md
+### 🛠️ Tech Stack
 
-cat status.md
-───────────────────────────────
-🚧 Work in progress:
-
-• Full-stack apps (MERN / Next.js)
-• Tools & scripts (Python / JS)
-• Learning projects turning into real ones
-
-Browse actual code in my <a href="https://github.com/RaviTeja1864?tab=repositories">repositories tab</a> ↑
-</pre>
-
-<p style="font-size: 1.3em; margin: 20px 0;">
-  <strong><a href="#root" style="color: #79c0ff; text-decoration: none;">← cd ..   (back to home)</a></strong>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,python,git,github,vscode,postman" alt="Tech Stack" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Learning%20Now-Typescript%20%7C%20Redux%20%7C%20GraphQL-orange?style=flat-square" alt="Currently Learning" />
 </p>
 
-<hr style="border-color: #30363d;">
+---
 
-<h2 id="contact">ravi@teja:~ $ cd contact && cat links.md</h2>
+### 📊 GitHub Stats & Activity
 
-<pre>
-Connect with me:
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=RaviTeja1864&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="420" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaviTeja1864&theme=tokyonight&hide_border=true" width="420" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTeja1864&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="420" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=RaviTeja1864&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="Trophies" />
+</div>
 
-• LinkedIn:   https://www.linkedin.com/in/ravi-teja-18678a228/
-• Twitter/X:  https://twitter.com/RAVITEJA_1864
-• Instagram:  https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/
-• Kaggle:     https://www.kaggle.com/raviteja1864
-• Email:      ravi.teja1864@gmail.com   (or DMs open)
+---
 
-Open to internships, freelance, collabs, tech chats!
-</pre>
+### ✨ Featured Projects
 
-<p style="font-size: 1.3em; margin: 20px 0;">
-  <strong><a href="#root" style="color: #79c0ff; text-decoration: none;">← cd ..   (back to home)</a></strong>
-</p>
+(Updating soon with real ones!)
 
-<hr style="border-color: #30363d;">
+- 🔧 More projects coming...
 
-<h2 id="skills">ravi@teja:~ $ cat skills.txt</h2>
+---
 
-<pre>
-Frontend ─────── HTML • CSS • JS • React • Next.js • Tailwind
-Backend ──────── Node.js • Express • MongoDB • MySQL
-Tools ────────── Git • GitHub • VS Code • Postman • Python
-Learning now ─── TypeScript • Redux • APIs • Deployment
-</pre>
-
-<p style="font-size: 1.3em; margin: 20px 0;">
-  <strong><a href="#root" style="color: #79c0ff; text-decoration: none;">← cd ..   (back to home)</a></strong>
-</p>
-
-<pre style="margin-top: 40px;">
-ravi@teja:~ $ <span style="color:#79c0ff">echo "Thanks for visiting! 🚀"</span>
-Thanks for visiting! 🚀
-</pre>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=80&section=footer&text=Thanks+for+visiting!+✨&fontSize=28&fontColor=fff&animation=twinkling" alt="footer" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=RaviTeja1864&style=flat-square&color=00C4B4" alt="Profile views" />
+</div>
