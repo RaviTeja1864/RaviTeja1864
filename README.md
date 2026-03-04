@@ -1,5 +1,4 @@
-<
-<br>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Ravi+Teja&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38" alt="header" />
