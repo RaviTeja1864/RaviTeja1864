@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ravi+Teja!;Full+Stack+Web+Developer+%F0%9F%9A%80;Building+modern+web+apps+with+passion;Always+learning+%26+problem-solving" alt="Typing SVG" />
-</div>
-
+<
 <br>
 
 <div align="center">
