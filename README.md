@@ -18,7 +18,7 @@
 - 🌱 Diving deeper into **React**, **Node.js**, **Next.js**, databases & cloud  
 - 🎯 Goal: Deliver real impact as a reliable **Software Engineer**
 
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
 
 ---
 
