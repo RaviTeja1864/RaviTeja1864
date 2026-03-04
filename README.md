@@ -1,21 +1,114 @@
-# 💫 About Me:
- 💻 Beginner "Full Stack Web Developer" learning how modern web applications work.<br> 🚀 Building projects to improve real-world development skills.<br> 🧠 Interested in problem solving.<br> 🛠️ Exploring modern web technologies and development tools.<br>🎯 Working toward becoming a skilled Software Developer.<br>
+<!-- 
+  Profile README for RaviTeja1864
+  Feel free to customize colors, add your real projects later
+-->
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Ravi+Teja!;Full+Stack+Web+Developer+%F0%9F%9A%80;Building+modern+web+apps+with+passion;Always+learning+%26+problem-solving" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ravi_teja__1864?igsh=MTF0NHF0Nmk4bHg1dw%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravi-teja-18678a228/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@RaviTeja1864) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/raviteja_1864?s=11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bethuraviteja.in@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RaviTeja1864&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RaviTeja1864&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTeja1864&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RaviTeja1864&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Ravi+Teja&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38" alt="header" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RaviTeja1864&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+- 💻 **Aspiring Full-Stack Web Developer** passionate about creating clean, efficient, and user-friendly web applications  
+- 🚀 Currently building real-world projects to strengthen practical development skills  
+- 🧠 Love solving complex problems and learning new technologies  
+- 🌱 Exploring **React**, **Node.js**, **Next.js**, databases, cloud, and modern tooling  
+- 🎯 Goal: Become a strong, reliable **Software Engineer** who delivers impact  
+
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravi-teja-18678a228/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/RAVITEJA_1864" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/raviteja1864" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend" /><br><br>
+  <!-- Backend & Others -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,git,github,vscode,postman" alt="Backend & Tools" /><br><br>
+  <!-- In learning / future -->
+  <img src="https://img.shields.io/badge/Learning%20Now-Typescript%20%7C%20Redux%20%7C%20GraphQL-orange?style=flat-square" alt="Currently Learning" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=RaviTeja1864&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaviTeja1864&theme=radical&hide_border=true" alt="Streak Stats" width="420" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTeja1864&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="420" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RaviTeja1864&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="Trophies" />
+</div>
+
+---
+
+### 🐍 My Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RaviTeja1864/RaviTeja1864/output/github-snake.svg" alt="Snake animation of contributions" />
+  <!-- 
+    To enable this snake:
+    1. Go to https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
+    2. Or use a workflow: https://github.com/Platane/snk
+    3. It will generate github-snake.svg in a branch/output
+  -->
+</div>
+
+---
+
+### ✨ Featured Projects
+
+(Coming soon – I'll update this section as I complete more meaningful projects!)
+
+- 🔧 E-commerce Backend (Python/Flask or Django?)  
+- 🤖 Chatbot Application  
+- 📝 OpenEditor (Python tool?)  
+- ...and many more in progress!
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=80&section=footer&%20text=Thanks%20for%20visiting!%20✨&fontSize=28&fontColor=fff&animation=twinkling" alt="footer" />
+</div>
+
+<!-- 
+  Optional: Add visitor count (if you want)
+  <img src="https://komarev.com/ghpvc/?username=RaviTeja1864&style=flat-square&color=blue" alt="Profile views" />
+-->
