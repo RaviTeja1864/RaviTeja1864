@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://portfolio-raviteja.vercel.app/hero.jpeg" width="120" style="border-radius: 50%;" alt="Ravi Teja" />
 
 # Hey, I'm Ravi Teja 👋
 
@@ -76,78 +75,6 @@ ravi = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-
-### 🔍 [OpenEditor](https://github.com/RaviTeja1864/openeditor) — AI-Powered Document Editor
-> An intelligent document editor using **FAISS vector embeddings** for semantic, context-aware search and editing.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FAISS](https://img.shields.io/badge/-FAISS-007ACC?style=flat-square)
-![AI](https://img.shields.io/badge/-AI-blueviolet?style=flat-square)
-
----
-
-### 🛒 [Ecommerce Backend](https://github.com/RaviTeja1864/Ecommerce-Backend) — Django REST API
-> Full e-commerce REST backend — store, customers, carts, orders, and tags modules with clean app architecture.
-
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-### 🤖 AI Code Review Assistant *(In Development)*
-> AI-powered tool for bug detection, security analysis, and performance suggestions — with GitHub OAuth & PDF export.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-### 📋 Real-Time Task Manager *(In Development)*
-> Trello-like board with WebSocket updates, drag & drop, live notifications, and role-based access control.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Django Channels](https://img.shields.io/badge/-Django%20Channels-092E20?style=flat-square&logo=django&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RaviTeja1864&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaviTeja1864&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviTeja1864&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
-
-</div>
-
----
-
-## 💼 What I Offer
-
-| Service | Details |
-|---|---|
-| 🖥️ **Frontend** | Responsive UIs with React.js — pixel-perfect & component-driven |
-| ⚙️ **Backend** | Robust REST APIs with Django & DRF — scalable & production-ready |
-| 🗄️ **Databases** | PostgreSQL, MongoDB, Redis — optimized schemas for performance |
-| 🚀 **DevOps** | Docker, GitHub Actions, Vercel & AWS deployments |
-| 🤖 **AI & Automation** | LangChain integrations, n8n workflows, AI-powered pipelines |
-
----
-
-## 📫 Let's Connect
-
-I'm open to **internships**, **freelance projects**, and **full-time opportunities**.
-
-- 🌐 Portfolio: [portfolio-raviteja.vercel.app](https://portfolio-raviteja.vercel.app/)
-- 📧 Email: [bethuraviteja.in@gmail.com](mailto:bethuraviteja.in@gmail.com)
-- 📍 Location: Bengaluru, Karnataka, India
 
 ---
 
